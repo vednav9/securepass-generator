@@ -5,7 +5,7 @@ Generate strong passwords instantly, customize length and character options, and
 
 ---
 
-![Password Generator Preview](./public/main.png)
+![Password Generator Preview](./public/main.PNG)
 
 > ⚡ **Live Demo**: [Visit on Vercel →](https://securepass-generator-app.vercel.app/)
 
