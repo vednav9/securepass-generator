@@ -1,6 +1,3 @@
-markdown
-Copy
-Edit
 # 🔐 Password Generator
 
 A sleek, secure, and fully responsive Password Generator built with **React (Vite)** and **Tailwind CSS**.  
@@ -8,9 +5,9 @@ Generate strong passwords instantly, customize length and character options, and
 
 ---
 
-![Password Generator Preview](https://your-image-link.png)
+![Password Generator Preview](./public/main.png)
 
-> ⚡ **Live Demo**: [Visit on Vercel →](https://your-vercel-link.vercel.app)
+> ⚡ **Live Demo**: [Visit on Vercel →](https://securepass-generator-app.vercel.app/)
 
 ---
 
@@ -36,21 +33,11 @@ Generate strong passwords instantly, customize length and character options, and
 
 ---
 
-## 📷 Screenshots
-
-> Light blur glassmorphism design with password options and indicators
-
-| Generator UI | Copy Toast | Strength Indicator |
-|--------------|------------|--------------------|
-| ![](https://your-image-link.png) | ![](https://your-toast-image.png) | ![](https://your-strength-image.png) |
-
----
-
 ## ⚙️ How to Run Locally
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/vednav9/securepass-generator.git
 cd password-generator
 
 # 2. Install dependencies
@@ -83,31 +70,16 @@ password-generator/
 
 This project is deployed on **[Vercel](https://vercel.com/)** for instant access:
 
-🔗 **Live URL**: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
-
----
-
-## 💡 Future Improvements
-
-- Dark/light mode toggle  
-- Password history export  
-- Strength bar with visual indicators  
-- Save settings in localStorage  
+🔗 **Live URL**: [https://securepass-generator-app.vercel.app/](https://securepass-generator-app.vercel.app/)
 
 ---
 
 ## 🙌 Acknowledgements
 
 - [React](https://react.dev)  
+- [Vite](https://vite.dev/)
 - [Tailwind CSS](https://tailwindcss.com)  
 - [Vercel](https://vercel.com)  
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use and modify!
 
 ---
 
